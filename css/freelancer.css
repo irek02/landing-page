@@ -5,7 +5,7 @@
  */
 
 body {
-  font-family: 'Lato';
+  font-family: 'Verdana';
 }
 
 h1,
@@ -15,7 +15,6 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Montserrat';
 }
 
 hr.star-light,
@@ -38,7 +37,7 @@ hr.star-dark:after {
   display: inline-block;
   padding: 0 0.25em;
   content: '\f005';
-  font-family: "Font Awesome 5 Free";
+  font-family: "Verdana";
   font-weight: 900;
   font-size: 2em;
 }
@@ -107,7 +106,6 @@ section h2 {
   padding-top: 1rem;
   padding-bottom: 1rem;
   font-weight: 700;
-  font-family: 'Montserrat';
 }
 
 #mainNav .navbar-brand {
@@ -184,7 +182,7 @@ header.masthead h1 {
 
 header.masthead h2 {
   font-size: 1.3rem;
-  font-family: 'Lato';
+  font-family: 'Verdana';
 }
 
 @media (min-width: 992px) {
